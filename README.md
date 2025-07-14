@@ -9,12 +9,14 @@ Core Features:
 4. Custom UI Styling with CSS
 5. Device-aware Inference (CPU/GPU)
 
-How It Works:
+🧠How It Works:
+
 Frontend: Built with Streamlit + CSS
 
 Backend: PyTorch, ResNet-50, image preprocessing
 
 Prediction Flow:
+
 Upload image
 
 Apply 3 types of TTA
@@ -32,7 +34,7 @@ Display top 3 sports with confidence
 | Model    | ResNet-50 (fine-tuned)      |
 | Data     | PIL, torchvision.transforms |
 
-Goals and Learning Outcomes:
+🎯Goals and Learning Outcomes:
 
 Deploy a real-time deep learning model using Streamlit
 
@@ -44,7 +46,8 @@ Practice full-stack ML workflows (preprocessing → inference → UI)
 
 Build deployable ML apps with user interaction
 
-Future Scope:
+💡Future Scope:
+
 Extend dataset to more sports or activity types
 
 Add Grad-CAM visualizations for explainable AI
