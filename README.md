@@ -24,3 +24,4 @@ Learning Outcomes:
 Build and deploy a deep learning classifier
 Use TTA for improved model inference
 Develop a full-stack AI app with user interaction
+
